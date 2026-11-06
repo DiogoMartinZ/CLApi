@@ -1,0 +1,6 @@
+@CLApi_HostAddress = http://localhost:5216
+
+GET {{CLApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
